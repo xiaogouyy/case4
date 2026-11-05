@@ -1,0 +1,7 @@
+features,top_terms
+"Baseline: count, unigram","the, and, to, was, my, it, shirts, great, is, shirt"
+"TF-IDF, unigram","the, and, great, quality, shirt, was, shirts, to, it, my"
+"Bigram: count, uni+bi","the, and, to, was, my, it, shirts, great, is, shirt"
+"Limit vocab: count, top 100","the, and, to, was, my, it, shirts, great, is, shirt"
+"Limit vocab: count, top 200","the, and, to, was, my, it, shirts, great, is, shirt"
+"Limit vocab: count, top 500","the, and, to, was, my, it, shirts, great, is, shirt"
